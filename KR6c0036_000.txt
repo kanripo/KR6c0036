@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 金剛般若波羅蜜經破取著不壞假名論
+#+DATE: 2015-08-30 19:44:49.907744
+#+PROPERTY: JUAN 0
