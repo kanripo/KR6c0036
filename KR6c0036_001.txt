@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:44:49.669169
+#+DATE: 2015-08-30 19:44:51.188732
 #+TITLE: 金剛般若波羅蜜經破取著不壞假名論
 #+PROPERTY: CBETA_ID T25n1515
 #+PROPERTY: ID KR6c0036
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 25, No. 1515
 #+PROPERTY: VOL 25
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6c0036_T_001-0887a> 
 #+PROPERTY: JUAN 1
 ¶
-No.1515¶
-
- 《金剛般若波羅蜜經破取著不壞¶
+No. 1515¶
+《金剛般若波羅蜜經破取著不壞¶
 假名論》卷上¶
 ¶
 功德施菩薩造¶
